@@ -5,14 +5,14 @@ body {
 }
 
 #contenedor {
-    background-color: #f0ddce;
+    background-color: #f3b9a8;
     width: 80%;
     margin: 0px auto;
     border: 1px solid #000000;
 }
 
 header {
-    background-color: #a7d3d6;
+    background-color: #ffcb9d;
     color: rgb(0, 0, 0);
     text-align: center;
     height: 100px;
@@ -20,7 +20,7 @@ header {
 }
 
 nav {
-    background-color: #fcf8f5;
+    background-color: #fff4ec;
     color: #dd3f00;
     height: 35px;
 }
@@ -39,7 +39,7 @@ nav ul li {
 }
 
 .articulo {
-    background-color: #f1e3e3;
+    background-color: #fff5e9;
     color: #333333;
     margin-top: 10px;
     margin-bottom: 10px;
